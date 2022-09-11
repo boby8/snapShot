@@ -1,0 +1,13 @@
+.mountain ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+ 
+}
+
+.mountain ul li{
+    padding: 5px;
+    width: 22%;
+    height: 20%;
+}
+

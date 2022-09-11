@@ -1,0 +1,27 @@
+h1 {
+  font-family: lobester; 
+  font-size: 4em;
+  color: #093561;
+}
+input{
+    padding: 15px;
+    width: 20%;
+    border: 2px solid rgb(157, 152, 152);
+    background-color: rgb(238, 234, 234);
+    border-radius: 10px;
+}
+
+nav a{
+    font-family: "Josefin Sans",Helvetica,Arial,sans-serif;
+    color: #3f4850;
+}
+body{
+    text-align: center;
+}
+
+button{
+    padding: 13px;
+    border: 2px solid rgb(157, 152, 152);
+    background-color: rgb(251, 245, 245);
+    border-radius: 5px;
+}
